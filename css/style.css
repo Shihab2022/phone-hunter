@@ -1,4 +1,6 @@
-h1 {
-    font-size: 50px;
-    color: red;
+/* googlr fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+.web-titel {
+    font-family: 'Courgette', cursive;
 }
