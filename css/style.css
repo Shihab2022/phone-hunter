@@ -14,12 +14,19 @@
 /* #card-detiles {
     display: none !important;
     position: fixed;
-    top: 18%;
+    top: 10%;
     left: 22%;
+    z-index: 1;
 } */
 
 .card-position {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+span {
+    /* font-family: 'Tangerine', cursive; */
+    font-style: italic;
+    font-size: 18px;
 }
