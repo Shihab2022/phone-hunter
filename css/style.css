@@ -10,12 +10,13 @@
     color: white;
 }
 
-#card-detiles {
-    /* display: none !important; */
+
+/* #card-detiles {
+    display: none !important;
     position: fixed;
     top: 18%;
     left: 22%;
-}
+} */
 
 .card-position {
     display: flex;
