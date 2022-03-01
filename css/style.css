@@ -13,7 +13,8 @@
 #card-detiles {
     /* display: none !important; */
     position: fixed;
-    top: 25%;
+    top: 18%;
+    left: 22%;
 }
 
 .card-position {
