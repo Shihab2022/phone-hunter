@@ -1,6 +1,9 @@
-/* googlr fonts */
+/************************************************ google font *************************************************/
 
 @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+/************************************************ css *************************************************/
+
 .web-titel {
     font-family: 'Courgette', cursive;
 }
@@ -16,8 +19,15 @@
     align-items: center;
 }
 
-span {
-    /* font-family: 'Tangerine', cursive; */
+hr {
+    padding: 3px;
+    border-radius: 20px;
+}
+
+span,
+li {
     font-style: italic;
     font-size: 18px;
+    list-style: none;
+    color: rgb(73, 67, 61);
 }
