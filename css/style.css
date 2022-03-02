@@ -10,15 +10,6 @@
     color: white;
 }
 
-
-/* #card-detiles {
-    display: none !important;
-    position: fixed;
-    top: 10%;
-    left: 22%;
-    z-index: 1;
-} */
-
 .card-position {
     display: flex;
     justify-content: center;
